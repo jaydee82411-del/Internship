@@ -1,0 +1,5 @@
+Name: Jay
+Interest: Arti cial Intelligence
+Goal: Become an AI engineer
+Favourite Language: python
+friends: David, Jude, Abiodun
